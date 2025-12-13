@@ -1,0 +1,60 @@
+[{
+  "story": {
+    "title": "The Lost Codex",
+    "genre": "fantasy adventure",
+    "tone": "mysterious",
+    "mainConflict": "Ancient artifact threatens to awaken forgotten evils",
+    "currentChapter": 1,
+    "plotPoints": [
+      "Discovery of father's journal",
+      "First encounter with the Shadow Cult",
+      "Journey to the Forbidden Archive"
+    ]
+  }
+},
+  {
+    "story": {
+      "title": "Whispers in the Dark",
+      "genre": "Horror",
+      "tone": "Suspenseful and terrifying",
+      "mainConflict": "A haunted mansion drives its visitors to madness",
+      "currentChapter": 1,
+      "plotPoints": [
+        "Arrival at the abandoned Blackwood Manor",
+        "Unexplained whispers and moving shadows",
+        "First disappearance of a team member",
+        "Discovering a cursed object in the basement"
+      ]
+    }
+  },
+  {
+    "story": {
+      "title": "The Vanishing Heir",
+      "genre": "Mystery",
+      "tone": "Intriguing and suspenseful",
+      "mainConflict": "A noble heir disappears under strange circumstances",
+      "currentChapter": 1,
+      "plotPoints": [
+        "Arrival of the detective to the manor",
+        "Interviewing suspicious family members",
+        "Finding hidden clues in the library",
+        "Uncovering a secret passage leading out of town"
+      ]
+    }
+  },
+  {
+    "story": {
+      "title": "City of Shadows",
+      "genre": "Crime",
+      "tone": "Dark and gritty",
+      "mainConflict": "A crime syndicate threatens the city’s fragile peace",
+      "currentChapter": 1,
+      "plotPoints": [
+        "Detective receives a tip about a planned heist",
+        "Undercover infiltration into the gang",
+        "Betrayal from a trusted informant",
+        "Climactic showdown at the docks"
+      ]
+    }
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "character": {
+    "character_id": "char_001",
+    "name": "",
+    "age": null,
+    "species": "",
+    "occupation": "",
+    "personality": [],
+    "appearance": {
+      "height": "",
+      "hairColor": "",
+      "eyeColor": "",
+      "distinctiveFeatures": ""
+    },
+    "backstory": "",
+    "skills": [],
+    "relationships": [
+      {
+        "name": "",
+        "relation": "",
+        "status": ""
+      }
+    ]
+  }
+}

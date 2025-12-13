@@ -1,0 +1,34 @@
+[
+    {
+        "Dark Fantasy": {
+            "primaryColor": "#8B0000",
+            "backgroundColor": "#1a1a1a",
+            "secondaryBackgroundColor": "#2d2d2d",
+            "textColor": "#f0f0f0"
+        }
+    },
+    {
+        "Light Mystical": {
+            "primaryColor": "#6A5ACD",
+            "backgroundColor": "#F5F5DC",
+            "secondaryBackgroundColor": "#E6E6FA",
+            "textColor": "#2F4F4F"
+        }
+    },
+    {
+        "Horror": {
+            "primaryColor": "#0A010A",
+            "backgroundColor": "#9929EA",
+            "secondaryBackgroundColor": "#CC66DA",
+            "textColor": "#FDF3BB"
+        }
+    },
+    {
+        "Crime Noir": {
+            "primaryColor": "#000000",
+            "backgroundColor": "#708090",
+            "secondaryBackgroundColor": "#A9A9A9",
+            "textColor": "#FFFFFF"
+        }
+    }
+]

@@ -1,0 +1,99 @@
+[{
+    "world": {
+    "name": "Aethermoor",
+    "type": "high fantasy",
+    "setting": "Post-magical war continent",
+    "locations": [
+      {
+        "name": "Lumendor",
+        "type": "city",
+        "description": "Floating city of knowledge built on ancient crystals",
+        "climate": "temperate"
+      }
+    ],
+    "magicSystem": {
+      "type": "elemental",
+      "elements": ["fire", "water", "air", "earth", "void"],
+      "restrictions": "Magic is fading since the war"
+    }
+  }
+},
+  {
+    "world": {
+      "name": "Raven Hollow",
+      "type": "horror",
+      "setting": "Cursed village surrounded by dark forests",
+      "locations": [
+        {
+          "name": "Blackwood Manor",
+          "type": "manor",
+          "description": "Abandoned mansion where the spirits whisper",
+          "climate": "foggy and cold"
+        },
+        {
+          "name": "The Misty Hollow",
+          "type": "forest",
+          "description": "Thick forest where travelers vanish",
+          "climate": "damp and misty"
+        }
+      ],
+      "magicSystem": {
+        "type": "cursed objects and rituals",
+        "elements": ["blood", "shadow", "soul"],
+        "restrictions": "Curses grow stronger at night and cannot be removed easily"
+      }
+    }
+  },
+  {
+    "world": {
+      "name": "Greyford",
+      "type": "mystery",
+      "setting": "Victorian-style city with dark alleys and secrets",
+      "locations": [
+        {
+          "name": "Ironbridge District",
+          "type": "neighborhood",
+          "description": "Crowded streets with hidden passages and secret clubs",
+          "climate": "overcast and rainy"
+        },
+        {
+          "name": "The Grand Library",
+          "type": "building",
+          "description": "Massive library containing forbidden archives",
+          "climate": "indoors, musty air"
+        }
+      ],
+      "magicSystem": {
+        "type": "rare investigative tools and deductive intuition",
+        "elements": [],
+        "restrictions": "No supernatural magic; relies on human skill and observation"
+      }
+    }
+  },
+  {
+    "world": {
+      "name": "Duskport",
+      "type": "crime",
+      "setting": "Corrupt industrial port city",
+      "locations": [
+        {
+          "name": "The Docks",
+          "type": "industrial area",
+          "description": "Shipping warehouses and smuggling routes controlled by gangs",
+          "climate": "humid and foggy"
+        },
+        {
+          "name": "The Underground",
+          "type": "hidden network",
+          "description": "Tunnels and secret rooms used for illegal dealings",
+          "climate": "dark and damp"
+        }
+      ],
+      "magicSystem": {
+        "type": "none",
+        "elements": [],
+        "restrictions": "Crime relies on strategy, influence, and technology rather than magic"
+      }
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+{
+    "character": {
+    "name": "Jeon Woo",
+    "age": 29,
+    "species": "Half-Elf",
+    "occupation": "Scholar",
+    "personality": ["Cold", "Smart", "cautious"],
+    "appearance": {
+      "height": "6'0\"",
+      "hairColor": "Black",
+      "eyeColor": "Brown",
+      "distinctiveFeatures": "Crescent moon tattoo on left wrist"
+    },
+    "backstory": "Raised in the library-city of Lumendor, searching for his missing father",
+    "skills": ["lockpicking", "ancient languages", "stealth"],
+    "relationships": [
+      {
+        "name": "Marcus",
+        "relation": "mentor",
+        "status": "alive"
+      }
+    ]
+  }
+},
+{
+  "character": {
+    "name": "Terry Vyn",
+    "age": 24,
+    "species": "Human",
+    "occupation": "Apothecary",
+    "personality": ["Kind", "Observant", "Anxious"],
+    "appearance": {
+      "height": "5'5\"",
+      "hairColor": "Auburn",
+      "eyeColor": "Green",
+      "distinctiveFeatures": "Burn scar along right forearm"
+    },
+    "backstory": "Grew up in a plague-stricken village and learned medicine to prevent others from suffering the same fate as her family",
+    "skills": ["herbalism", "basic alchemy", "first aid"],
+    "relationships": [
+      {
+        "name": "Tomas Vyn",
+        "relation": "younger brother",
+        "status": "alive"
+      }
+    ]
+  }
+},
+{
+  "character": {
+    "name": "Dan Thorn",
+    "age": 31,
+    "species": "Elf",
+    "occupation": "Bounty Hunter",
+    "personality": ["Stoic", "Pragmatic", "Loyal"],
+    "appearance": {
+      "height": "6'2\"",
+      "hairColor": "Silver",
+      "eyeColor": "Gray",
+      "distinctiveFeatures": "Missing left eye, replaced with a steel prosthetic"
+    },
+    "backstory": "Once a royal scout, he was framed for treason and now hunts criminals while searching for the truth behind his exile",
+    "skills": ["tracking", "dual-wielding blades", "survival"],
+    "relationships": [
+      {
+        "name": "Liora",
+        "relation": "former commander",
+        "status": "unknown"
+      }
+    ]
+  }
+},
+{
+  "character": {
+    "name": "Hoshi Solis",
+    "age": 19,
+    "species": "Human",
+    "occupation": "Runaway Mage",
+    "personality": ["Curious", "Impulsive", "Optimistic"],
+    "appearance": {
+      "height": "5'3\"",
+      "hairColor": "Dark Brown",
+      "eyeColor": "Amber",
+      "distinctiveFeatures": "Faint glowing runes on palms when casting spells"
+    },
+    "backstory": "Discovered her magical abilities by accident and fled after attracting the attention of a powerful arcane order",
+    "skills": ["fire magic", "spell improvisation", "quick learning"],
+    "relationships": [
+      {
+        "name": "Seren",
+        "relation": "childhood friend",
+        "status": "alive"
+      }
+    ]
+  }
+},
+{
+      "name": "Grace Graves",
+      "age": 27,
+      "species": "Human",
+      "occupation": "Occult Investigator",
+      "personality": ["Curious", "Paranoid", "Determined"],
+      "appearance": {
+        "height": "5'7\"",
+        "hairColor": "Jet Black",
+        "eyeColor": "Pale Gray",
+        "distinctiveFeatures": "Dark circles under eyes, carries talismans to ward spirits"
+      },
+      "backstory": "Investigates haunted locations after a childhood encounter with a vengeful spirit",
+      "skills": ["ritual magic", "exorcism", "research"],
+      "relationships": [
+        {
+          "name": "Father Malric",
+          "relation": "mentor",
+          "status": "deceased"
+        }
+      ]
+    }
+]
